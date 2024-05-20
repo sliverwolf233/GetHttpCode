@@ -5,4 +5,4 @@
 我在调用的时候需要使用什么: 你需要输入URL 将会返回httpstatus和这个status代表什么<br>
 e.g 输入 Github.com Get 返回:"200 OK"<br>
 如果您觉得这个项目不错可以进行打赏<br>
-[Https://afdian.net/a/sliverwolf233](https://afdian.net/a/sliverwolf233)
+[Https://afdian.net/a/sliverwolf233]
