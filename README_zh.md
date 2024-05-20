@@ -4,5 +4,3 @@
 我该如何更改它:如果你想要生成为可执行文件或者.h文件 可以直接通过main或者public选择或者调用GetHttpCode这个函数.<br>
 我在调用的时候需要使用什么: 你需要输入URL 将会返回httpstatus和这个status代表什么<br>
 e.g 输入 Github.com Get 返回:"200 OK"<br>
-如果您觉得这个项目不错可以进行打赏<br>
-[Https://afdian.net/a/sliverwolf233]
